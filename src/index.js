@@ -1,4 +1,4 @@
-import {fetchBreeds, fetchCatByBreed} from "./js/cat-api";
+import {fetchBreeds, fetchCatByBreed} from "./cat-api";
 import { Report } from 'notiflix/build/notiflix-report-aio';
 import {Loading} from 'notiflix/build/notiflix-loading-aio';
 
